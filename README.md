@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://bloggerspassion.com/wp-content/uploads/2019/12/best-programming-blogs.webp)
 <h1 align="center">Hi 👋, I'm Arham Amir</h1>
 <h3 align="center">"Its Harder to read the code than to write it."</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/DronaHQ-nocode-lowcode-dronahq-2QpnSwLwr9fkDtiN4m">
