@@ -1,7 +1,7 @@
 [![MasterHead](https://cms-assets.themuse.com/media/lead/01212022-1047259374-coding-classes_scanrail.jpg)
 <h1 align="center">Hi 👋, I'm Arham Amir</h1>
 <h3 align="center">"Its Harder to read the code than to write it."</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/DronaHQ-nocode-lowcode-dronahq-2QpnSwLwr9fkDtiN4m">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4WvC5PYhh90XerR_RZXPr2mpyVzAB_f7jg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arham-amir&label=Profile%20views&color=0e75b6&style=flat" alt="arham-amir" /> </p>
 
